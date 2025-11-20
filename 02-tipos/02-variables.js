@@ -1,3 +1,11 @@
+// UpperCamelCase, CamelCase, snake_case
 let nombre = "Hola Mundo";
+let NombreCompleto;
+let nombreCompleto;
+let nombre_completo;
 
-console.log(nombre);
+console.log(NombreCompleto);
+
+let apellido;
+let animal;
+apellido = "Escorcia";
